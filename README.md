@@ -39,6 +39,7 @@ Social media dashboards are widely used in marketing to save time and make data-
 ## 📁 Project Structure
 
 SocialMediaDashboard/
+
 ├── index.html
 
 ├── style.css

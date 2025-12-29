@@ -41,13 +41,9 @@ Social media dashboards are widely used in marketing to save time and make data-
 SocialMediaDashboard/
 
 ├── index.html
-
 ├── style.css
-
 ├── script.js
-
 ├── assets/
-
 └── README.md
 
 

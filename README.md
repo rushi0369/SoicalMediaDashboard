@@ -39,11 +39,12 @@ Social media dashboards are widely used in marketing to save time and make data-
 ## 📁 Project Structure
 
 SocialMediaDashboard/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
-│── README.md
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+└── README.md
+
 
 
 ## 📌 What Is a Social Media Dashboard?
